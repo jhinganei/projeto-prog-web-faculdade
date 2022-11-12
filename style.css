@@ -1,0 +1,41 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  border: 1px solid black;
+}
+
+.names {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#button {
+  margin-top: 10px;
+}
+
+#resultado {
+  margin-top: 40px;
+}
+
+.items {
+  width: 180px;
+  margin: 8px;
+  border: 2px solid black;
+  border-radius: 20px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+.items p {
+  padding-left: 6px;
+}
+
+img {
+  padding-left: 23px;
+  padding-top: 10px;
+  width: 130px;
+  height: 130px;
+}

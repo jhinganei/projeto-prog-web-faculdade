@@ -1,0 +1,229 @@
+{
+  "alunos": [
+    {
+      "nome": "Caio",
+      "rgm": 5811969787,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-caio.jpg"
+    },
+    {
+      "nome": "Amanda",
+      "rgm": 5842344123,
+      "avaliacaoParcial": 3,
+      "exercicio": 0,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-amanda.jpg"
+    },
+    {
+      "nome": "Douglas",
+      "rgm": 5891449802,
+      "avaliacaoParcial": 1,
+      "exercicio": 0,
+      "avaliacaoRegimental": 0,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-douglas.jpg"
+    },
+    {
+      "nome": "Beatriz",
+      "rgm": 5847291519,
+      "avaliacaoParcial": 2,
+      "exercicio": 0,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-beatriz.jpg"
+    },
+    {
+      "nome": "Joao",
+      "rgm": 5845115397,
+      "avaliacaoParcial": 1,
+      "exercicio": 1,
+      "avaliacaoRegimental": 3,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-joao.jpg"
+    },
+    {
+      "nome": "Bianca",
+      "rgm": 5842344121,
+      "avaliacaoParcial": 4,
+      "exercicio": 0,
+      "avaliacaoRegimental": 2,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-bianca.jpg"
+    },
+    {
+      "nome": "Luis",
+      "rgm": 5872878199,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 2,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-luis.jpg"
+    },
+    {
+      "nome": "Camila",
+      "rgm": 5825623197,
+      "avaliacaoParcial": 4,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-camila.jpg"
+    },
+    {
+      "nome": "Marcos",
+      "rgm": 5862621923,
+      "avaliacaoParcial": 3,
+      "exercicio": 0,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-marcos.jpg"
+    },
+    {
+      "nome": "Carolina",
+      "rgm": 5873272724,
+      "avaliacaoParcial": 1,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-carolina.jpg"
+    },
+    {
+      "nome": "Miguel",
+      "rgm": 5896937381,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-miguel.jpg"
+    },
+    {
+      "nome": "Eduarda",
+      "rgm": 5866172244,
+      "avaliacaoParcial": 4,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-eduarda.jpg"
+    },
+    {
+      "nome": "Renan",
+      "rgm": 5892441394,
+      "avaliacaoParcial": 1,
+      "exercicio": 0,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-renan.jpg"
+    },
+    {
+      "nome": "Evelyn",
+      "rgm": 5884752078,
+      "avaliacaoParcial": 3,
+      "exercicio": 0,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-evelyn.jpg"
+    },
+    {
+      "nome": "Roberto",
+      "rgm": 5897931803,
+      "avaliacaoParcial": 2,
+      "exercicio": 1,
+      "avaliacaoRegimental": 3,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-roberto.jpg"
+    },
+    {
+      "nome": "Larissa",
+      "rgm": 5898773184,
+      "avaliacaoParcial": 2,
+      "exercicio": 1,
+      "avaliacaoRegimental": 3,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-larissa.jpg"
+    },
+    {
+      "nome": "Rodrigo",
+      "rgm": 5869657894,
+      "avaliacaoParcial": 3,
+      "exercicio": 0,
+      "avaliacaoRegimental": 3,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-rodrigo.jpg"
+    },
+    {
+      "nome": "Mariana",
+      "rgm": 5895639093,
+      "avaliacaoParcial": 2,
+      "exercicio": 0,
+      "avaliacaoRegimental": 2,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-mariana.jpg"
+    },
+    {
+      "nome": "Yuri",
+      "rgm": 5814449460,
+      "avaliacaoParcial": 3,
+      "exercicio": 0,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-yuri.jpg"
+    },
+    {
+      "nome": "Raissa",
+      "rgm": 5849074044,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 2,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-raissa.jpg"
+    },
+    {
+      "nome": "Bernardo",
+      "rgm": 5825904822,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-bernardo.jpg"
+    },
+    {
+      "nome": "Rebeca",
+      "rgm": 5892405377,
+      "avaliacaoParcial": 2,
+      "exercicio": 0,
+      "avaliacaoRegimental": 3,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-rebeca.jpg"
+    },
+    {
+      "nome": "Antony",
+      "rgm": 5846761224,
+      "avaliacaoParcial": 2,
+      "exercicio": 0,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-antony.jpg"
+    },
+    {
+      "nome": "Yasmin",
+      "rgm": 5864131624,
+      "avaliacaoParcial": 4,
+      "exercicio": 1,
+      "avaliacaoRegimental": 1,
+      "status": "",
+      "img": "assets/mulheres/imagem_estudante-yasmin.jpg"
+    },
+    {
+      "nome": "Adson",
+      "rgm": 5875813208,
+      "avaliacaoParcial": 3,
+      "exercicio": 1,
+      "avaliacaoRegimental": 4,
+      "status": "",
+      "img": "assets/homens/imagem_estudante-adson.jpg"
+    }
+  ]
+}
